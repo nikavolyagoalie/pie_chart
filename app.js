@@ -51,7 +51,7 @@ var w = {
     "legend": {
         "enabled": true,
         "width": "50%",
-        "itemMarginTop": 3.5
+        "itemMarginTop": 0.5
     },
     "tooltip": {
         "style": {
